@@ -396,3 +396,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Prettier
+.prettierrc.json
+.prettierignore
+
+# angular
+node_modules/
+dist/
+*.angular
+package-lock.json
